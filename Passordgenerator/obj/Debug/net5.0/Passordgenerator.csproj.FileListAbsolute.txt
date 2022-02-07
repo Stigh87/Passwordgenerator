@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\bin\Debug\net5.0\Passordgenerator.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\bin\Debug\net5.0\Passordgenerator.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\bin\Debug\net5.0\Passordgenerator.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\bin\Debug\net5.0\Passordgenerator.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\bin\Debug\net5.0\Passordgenerator.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\bin\Debug\net5.0\ref\Passordgenerator.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\bin\Debug\net5.0\Passordgenerator.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\Passordgenerator.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\Passordgenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\Passordgenerator.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\Passordgenerator.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\Passordgenerator.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\Passordgenerator.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\ref\Passordgenerator.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\Passordgenerator.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Passordgenerator\Passordgenerator\obj\Debug\net5.0\Passordgenerator.genruntimeconfig.cache
